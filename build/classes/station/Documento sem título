@@ -1,0 +1,44 @@
+Greedy Random Heuristic usando 0.01 como tamanho de lista:
+usando profit do DL:
+Number of stations:3798
+Number of recharges:32814
+
+usando profit do Score:
+tentativa 1:
+Number of stations:1457
+Number of recharges:32806
+
+tentativa 2:
+Number of stations:1362
+Number of recharges:32806
+
+usando 0.02 de percentual do tamanho da lista:
+tentativa 3:
+Number of stations:2723
+Number of recharges:32805
+(demorou quase 17 minutos)
+
+usando 0.005 de percentual do tamanho da lista:
+tentativa 4:
+Number of stations:1096
+Number of recharges:32804
+
+tentativa 5:
+Number of stations:1027
+Number of recharges:32807
+
+
+tentativa 6 (usando 0.0005 de percentual do tamanho da lista):
+Number of stations:1019
+Number of recharges:32806
+
+
+
+DL Heuristic:
+Number of stations:3859
+Number of recharges:32814
+
+Score Heuristic:
+Number of stations:1013
+Number of recharges:32806
+
